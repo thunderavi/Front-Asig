@@ -283,7 +283,7 @@ function Support() {
               <div className="accordion-item modern-card mb-3" style={{ border: 'none' }}>
                 <h2 className="accordion-header">
                   <button 
-                    className="accordion-button text-white" 
+                    className="accordion-button text-black" 
                     type="button" 
                     data-bs-toggle="collapse" 
                     data-bs-target="#faq1"
@@ -293,7 +293,7 @@ function Support() {
                   </button>
                 </h2>
                 <div id="faq1" className="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
-                  <div className="accordion-body" style={{ color: '#b0b0b0' }}>
+                  <div className="accordion-body" style={{ color: '#3b3939ff' }}>
                     We typically respond to all inquiries within 24 hours during business days. For urgent matters, please call our support line.
                   </div>
                 </div>
@@ -302,7 +302,7 @@ function Support() {
               <div className="accordion-item modern-card mb-3" style={{ border: 'none' }}>
                 <h2 className="accordion-header">
                   <button 
-                    className="accordion-button collapsed text-white" 
+                    className="accordion-button collapsed text-black" 
                     type="button" 
                     data-bs-toggle="collapse" 
                     data-bs-target="#faq2"
@@ -312,7 +312,7 @@ function Support() {
                   </button>
                 </h2>
                 <div id="faq2" className="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div className="accordion-body" style={{ color: '#b0b0b0' }}>
+                  <div className="accordion-body" style={{ color: '#464444ff' }}>
                     Our phone support is available Monday through Friday, 9am to 5pm EST. Email and chat support are available 24/7.
                   </div>
                 </div>
@@ -321,7 +321,7 @@ function Support() {
               <div className="accordion-item modern-card mb-3" style={{ border: 'none' }}>
                 <h2 className="accordion-header">
                   <button 
-                    className="accordion-button collapsed text-white" 
+                    className="accordion-button collapsed text-black" 
                     type="button" 
                     data-bs-toggle="collapse" 
                     data-bs-target="#faq3"
@@ -331,7 +331,7 @@ function Support() {
                   </button>
                 </h2>
                 <div id="faq3" className="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div className="accordion-body" style={{ color: '#b0b0b0' }}>
+                  <div className="accordion-body" style={{ color: '#444242ff' }}>
                     Yes! Our technical support team is available to help with any technical issues you may encounter. Please include as much detail as possible in your message.
                   </div>
                 </div>

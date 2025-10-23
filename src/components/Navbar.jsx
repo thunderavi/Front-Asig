@@ -43,8 +43,15 @@ function Navbar() {
                 Support
               </Link>
             </li>
-            <li className="nav-item ms-lg-3">
-              <button className="btn btn-modern btn-sm">Get Started</button>
+            <li className="nav-item ms-lg-2">
+              <Link to="/login" className="btn btn-outline-modern btn-sm">
+                Login
+              </Link>
+            </li>
+            <li className="nav-item ms-lg-2">
+              <Link to="/signup" className="btn btn-modern btn-sm">
+                Sign Up
+              </Link>
             </li>
           </ul>
         </div>
